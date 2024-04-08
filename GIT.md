@@ -9,3 +9,5 @@
 [Генератор профиля для GIta](https://gprm.itsvg.in)
 
 [Разместить свой сайт на гите](https://netology-code.github.io/guides/github-pages/)
+
+[Про гитлаб](https://wiki.miem.hse.ru/ru/docs/miem-digital/git/quickstart)
