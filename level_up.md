@@ -16,4 +16,4 @@
 
 [bi](https://getmatch.ru/vacancies/15271-bi-razrabotchik-moscow-fix?s=tg&tg=view)	
 
-								
+[Требования для BI от Яндекса](https://hh.ru/vacancy/96113371?hhtmFromLabel=similar_employer_vacancies&hhtmFrom=vacancy)								
