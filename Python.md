@@ -8,6 +8,9 @@
 
 [Алго_игры](#Алго_игры) 
 
+[Алго_статьи](#Алго_статьи) 
+
+
 
 ### Курсы 
 [Яндекс.free курсы](https://practicum.yandex.ru/catalog/free/)
@@ -84,7 +87,8 @@
 [game3](https://www.codingame.com/multiplayer/clashofcode)
 
 
-
+### Алго_статьи 
+[Статья про О большое](https://proglib.io/p/zadumchivyy-kod-vremennaya-slozhnost-operaciy-so-strukturami-dannyh-v-python-2024-04-22)
 
 	
 
