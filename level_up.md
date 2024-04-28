@@ -28,3 +28,6 @@
 [Куча вопросов с git](https://github.com/joerude/python-junior-interview-questions?tab=readme-ov-file)		
 
 [100 вопросов по птиону](https://habr.com/ru/articles/782266/)	 
+
+### Статьи
+[Кого нанимают в яндекс](https://yandex.ru/jobs/pages/analytics_interview)	 
