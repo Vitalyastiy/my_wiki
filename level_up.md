@@ -21,3 +21,9 @@
 
 #### Найм
 [Советы по найму](https://habr.com/ru/companies/ctsg/articles/808311/)		
+
+
+### Подготовка к собесу 
+
+[Куча вопросов с git](https://github.com/joerude/python-junior-interview-questions?tab=readme-ov-file)		
+
