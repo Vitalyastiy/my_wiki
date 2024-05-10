@@ -23,3 +23,4 @@
 
 [Моность](https://habr.com/ru/companies/lamoda/articles/728034/)
 
+[Тальда АБ](https://tilda.education/articles-yourfirstabtest)
