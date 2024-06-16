@@ -1,5 +1,7 @@
 [git](#git) 
 
+[курс](#курс) 
+
 #### git
 
 [Щпора по git(добавить себе)](https://github.com/VadimGlazkow/Git-commands#работа-с-файлами-и-папками)
@@ -13,7 +15,11 @@
 [Про гитлаб](https://wiki.miem.hse.ru/ru/docs/miem-digital/git/quickstart)
 
 
+#### курс
+[Github курс](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
 
-Github курс на русском 	https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb
-Github курс на русском 	https://githowto.com/ru
-гитхаб миникурс	https://tproger.ru/curriculum/git-guide/
+[Github курс на русском](https://githowto.com/ru)
+
+[гитхаб миникурс](https://tproger.ru/curriculum/git-guide/)
+
+	
