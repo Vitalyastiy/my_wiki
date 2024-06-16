@@ -2,6 +2,8 @@
 
 [курс](#курс) 
 
+[крон](#крон) 
+
 #### git
 
 [Щпора по git(добавить себе)](https://github.com/VadimGlazkow/Git-commands#работа-с-файлами-и-папками)
@@ -22,4 +24,7 @@
 
 [гитхаб миникурс](https://tproger.ru/curriculum/git-guide/)
 
-	
+#### крон
+[Крон в линукс](https://temofeev.ru/info/articles/cron-v-linux-istoriya-ispolzovanie-i-ustroystvo/)	
+
+[Кронтаб гуру](https://crontab.guru)	
