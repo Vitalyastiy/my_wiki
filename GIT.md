@@ -24,6 +24,8 @@
 
 [гитхаб миникурс](https://tproger.ru/curriculum/git-guide/)
 
+[Яндекс практикум гит](https://github.com/ovalentinka/Data_analyst)
+
 #### крон
 [Крон в линукс](https://temofeev.ru/info/articles/cron-v-linux-istoriya-ispolzovanie-i-ustroystvo/)	
 
