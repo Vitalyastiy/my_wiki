@@ -12,7 +12,7 @@ ssh flerinvs@webapp-01-prd "find -name '*.txt' -exec rm {} \;"
 
 vim /путь/к/файлу.json - открыть json
 
-rm *2024* -- удалить все 
+rm */*2024*/* -- удалить все 
 
 
 
