@@ -25,7 +25,7 @@ scp /c/Users/flerinvs/Desktop/Свод_по_мульти_ВТБ_ФЛ_ЧМ.xlsx f
 scp /c/Users/flerinvs/Desktop/Свод_по_мульти_ВТБ_ЮЛ.xlsx flerinvs@webapp-01-prd:/home/flerinvs/lab/
 
 
-Скачать в обратную сторону
-scp flerinvs@webapp-01-prd:/home/flerinvs/2024-05-08_report_podft.txt "C:\Users\flerinvs\Desktop"
+
+scp flerinvs@webapp-01-prd:/home/flerinvs/2024-05-08_report_podft.txt "C:\Users\flerinvs\Desktop" - Скачать в обратную сторону
 
 
