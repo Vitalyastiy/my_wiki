@@ -5,6 +5,7 @@ crontab - r - дропнуть крон
 git rev-parse --show-toplevel - показать где я 
 
 scp /c/Users/flerinvs/Desktop/pass.json flerinvs@webapp-01-prd:/home/flerinvs/lab/ - копировать файл
+
 scp /c/Users/flerinvs/Desktop/Отчет_ЭлРег2.0_Райффайзен_банк.xlsx flerinvs@webapp-01-prd:/home/flerinvs/lab/ - копировать файл
 
 
