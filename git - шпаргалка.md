@@ -17,7 +17,7 @@ vim /путь/к/файлу.json - открыть json
 
 rm * 2024 * -- удалить все где в названии есть 2024
 rm* - удалить все
-
+rm -i * 2024* - запросить разрешение для каждого файла 
 
 
 scp /c/Users/flerinvs/Desktop/Миграция_компании_ВТБ.xlsx flerinvs@webapp-01-prd:/home/flerinvs/lab/
