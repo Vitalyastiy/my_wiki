@@ -13,7 +13,7 @@ $ ssh flerinvs@webapp-01-prd "rm 2024-05-05_report_podft.txt" - удаление
 
 ssh flerinvs@webapp-01-prd "find -name '*.txt' -exec rm {} \;"
 
-vim /путь/к/файлу.json - открыть json
+vim /путь/к/файлу.json - открыть и редактировать json (:w - сохранить, :q - выйти)
 
 rm * 2024 * -- удалить все где в названии есть 2024
 rm* - удалить все
